@@ -88,7 +88,7 @@ Smart-Wall-Painting-Robot/
 │   └── Smart-Wall-Painting-Robot.ino
 │
 ├── documentation/
-│   ├── Progress-Review-Presentation.pdf
+│   ├── Progress-Review-Presentation.pptx
 │   └── Smart-Wall-Painting-Robot-Final-Presentation.pdf
 │
 ├── images/
@@ -107,7 +107,7 @@ Smart-Wall-Painting-Robot/
 
 The project documentation is available in the `documentation` folder.
 
-* 📄 [Progress Review Presentation](documentation/Progress-Review-Presentation.pdf)
+* 📊 [Progress Review Presentation](documentation/Progress-Review-Presentation.pptx)
 * 📄 [Final Presentation](documentation/Smart-Wall-Painting-Robot-Final-Presentation.pdf)
 
 ---
