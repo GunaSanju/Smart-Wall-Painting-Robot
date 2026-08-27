@@ -92,11 +92,12 @@ Smart-Wall-Painting-Robot/
 │   └── Smart-Wall-Painting-Robot-Final-Presentation.pdf
 │
 ├── images/
-│   ├── Hardware Component Images
-│   └── Mobile App Control Logic Images
+│   ├── hardware...
+│   └── app-control-logic...
 │
 ├── video/
-│   └── Smart-Wall-Painting-Robot.mp4
+│   ├── Smart-Wall-Painting-Robot.mp4
+│   └── Automatic-Pavement-Block-Laying-Machine-Concept.mp4
 │
 └── README.md
 ```
@@ -126,6 +127,15 @@ The application communicates with the robot through a **Bluetooth module** and a
 Images of the application's control logic are available in the `images` folder.
 
 ---
+
+### 🎬 Early Project Concept Visualization
+
+Before developing the Smart Wall Painting Robot, our team initially proposed an **Automatic Pavement Block Laying Machine** as our project concept.
+
+To improve the visualization and communication of the proposed concept, I independently created a **3D concept animation using Blender**. The animation was created as an additional visualization to help communicate the machine's proposed design and working concept more clearly.
+
+[▶️ Watch the Automatic Pavement Block Laying Machine Concept](video/Automatic-Pavement-Block-Laying-Machine-Concept.mp4)
+
 
 ## 🎥 Project Demonstration
 
